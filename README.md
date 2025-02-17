@@ -120,7 +120,3 @@ Contributions are **welcome**! Please submit a pull request or open an issue.
 ---
 
 🚀 **GameShare – Making Gaming More Accessible & Affordable!** 🎮  
-
----
-
-This `README.md` is **well-structured, engaging, and recruiter-friendly** while maintaining a professional UX focus. Let me know if you want any modifications! 🚀🔥
