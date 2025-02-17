@@ -1,7 +1,3 @@
-Here’s a **well-structured, professional, and visually appealing** `README.md` for your **GameShare** project:  
-
----
-
 # 🎮 GameShare  
 
 **`A Secure & Convenient Game Rental & Purchase Platform`**  
