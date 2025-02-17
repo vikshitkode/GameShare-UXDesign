@@ -1,118 +1,95 @@
-# 🎮 GameShare  
+# ![GameShare Logo](https://gameshare.my.canva.site/gameshare-website/images/e4c75ffac7d57db7a5c8b896b645c3b2.png)  
+**`GameShare – A UX Research & Design Project`**  
 
-**`A Secure & Convenient Game Rental & Purchase Platform`**  
+GameShare is a **UX research and design project** focused on creating an **intuitive and user-friendly game rental and purchase experience**. This project was developed using **quantitative and qualitative research methods**, including **user interviews, usability testing, and wireframing** in **Figma**.  
 
-GameShare is a **full-stack game-sharing platform** designed for **gamers to rent, buy, and sell games and gaming accessories** securely. With a focus on **user experience, payment safety, and convenience**, GameShare makes game transactions effortless.  
-
----
-
-## 🚀 Features  
-
-✅ **Game Rentals & Purchases** – Rent or buy games seamlessly  
-✅ **Secure Transactions** – Integrated **payment safety measures**  
-✅ **Multi-Item Cart** – Add multiple games or accessories to cart before checkout  
-✅ **Rental Options** – Rent games for a **specified period** with flexible pricing  
-✅ **User-Friendly UI/UX** – Intuitive design for smooth navigation  
-✅ **Search & Filter** – Easily find the games you want  
-✅ **Responsive Design** – Works on **mobile, tablet, and desktop**  
+📌 **Check out our blog for a detailed breakdown of our research & design process:**  
+🔗 **[GameShare Blog](https://gameshare.my.canva.site/gameshare-website)**  
 
 ---
 
-## 🎨 UX Design Highlights  
+## 🎯 **Project Overview**  
 
-🔹 **User-Centric Interface** – Simple, clean, and intuitive  
-🔹 **Smooth Navigation** – Easy-to-use rental and checkout process  
-🔹 **Trust & Security** – Transparent rental agreements and secure payments  
-🔹 **Efficient Search & Filters** – Quickly find the games you want  
-
----
-
-## 🛠 Tech Stack  
-
-### **Frontend**  
-- React.js  
-- Tailwind CSS  
-- Redux (State Management)  
-- Framer Motion (Animations)  
-
-### **Backend**  
-- Node.js  
-- Express.js  
-- MongoDB (Mongoose ORM)  
-
-### **Payment & Security**  
-- Stripe API (Secure Transactions)  
-- JWT Authentication  
-- AWS S3 (Game Image Hosting)  
-
-### **Deployment & DevOps**  
-- AWS EC2  
-- Docker  
-- GitHub Actions (CI/CD)  
+📌 **Goal:** To design a seamless platform for renting and purchasing video games while enhancing the overall user experience.  
+📌 **Methods Used:** **User Interviews, Quantitative Analysis, Wireframing, Prototyping, and Usability Testing**  
+📌 **Tools:** **Figma, Google Forms (for surveys), Miro (for brainstorming), and Excel (for quantitative analysis)**  
+📌 **Outcome:** A **high-fidelity interactive prototype** showcasing a **user-friendly game rental and purchase platform**.  
 
 ---
 
-## 📸 Screenshots  
+## 📝 **Research Process**  
 
-| Home Page | Game Details | Cart & Checkout |  
-|-----------|-------------|-----------------|  
-| ![Home](https://via.placeholder.com/300) | ![Details](https://via.placeholder.com/300) | ![Checkout](https://via.placeholder.com/300) |  
+### 🔍 **1. User Research**  
+- Conducted **user interviews** with **gamers and game buyers** to understand pain points.  
+- Ran **quantitative surveys** to gather data on user behavior.  
+- Created **Personas** to represent our key user groups.  
 
----
+### 🛠 **2. Design Process**  
+- Developed **low-fidelity sketches** to explore different design ideas.  
+- Created **site maps** to define the platform structure.  
+- Designed **paper prototypes** for early testing.  
+- Built **wireframes** in Figma to map out the user journey.  
 
-## 🛒 How It Works  
+### 📊 **3. Usability Testing**  
+- Conducted usability tests with **real users** to evaluate the design.  
+- Gathered feedback and iterated on designs to improve user flow and accessibility.  
 
-1️⃣ **Sign up / Log in**  
-2️⃣ **Browse games** – Rent or Buy  
-3️⃣ **Add to Cart** – Multiple game transactions supported  
-4️⃣ **Choose rental duration** (if renting)  
-5️⃣ **Secure Checkout** – Complete payment safely  
-6️⃣ **Download / Receive Physical Copy** (as applicable)  
-
----
-
-## 📌 Future Enhancements  
-
-🚀 **AI-Based Game Recommendations**  
-🚀 **User Reviews & Ratings**  
-🚀 **Loyalty & Rewards Program**  
-🚀 **Community Forum for Game Discussions**  
-🚀 **More Payment Options (Crypto, PayPal, etc.)**  
+### 🎨 **4. Hi-Fi Prototype**  
+- Finalized the **high-fidelity prototype** in **Figma**, showcasing an interactive experience.  
 
 ---
 
-## 👨‍💻 Setup & Installation  
+## 📌 **Project Deliverables**  
 
-Clone the repository:  
-```bash
-git clone https://github.com/your-username/GameShare.git
-cd GameShare
-```
-
-Install dependencies:  
-```bash
-npm install
-cd client && npm install
-```
-
-Run the development server:  
-```bash
-npm run dev
-```
+📂 **[Personas & Codebook](#)** – User personas based on research findings.  
+📂 **[Sketches](#)** – Initial hand-drawn wireframes and design concepts.  
+📂 **[SiteMap](#)** – Structural layout of the platform.  
+📂 **[Paper Prototypes](#)** – Early-stage design validation.  
+📂 **[Wireframes](#)** – Low and mid-fidelity wireframes for different screens.  
+📂 **[Hi-Fi Prototype](#)** – The final **Figma prototype**.  
+📂 **[Usability Testing Results](#)** – Summary of findings from user testing.  
+📂 **[GameShare Research Presentation](#)** – Overview of the research and design process.  
 
 ---
 
-## 🤝 Contributing  
+## 📌 **Figma Links**  
 
-Contributions are **welcome**! Please submit a pull request or open an issue.  
+🔗 **[GameShare Hi-Fi Prototype](#)**  
+🔗 **[Wireframes in Figma](#)**  
 
 ---
 
-## 📬 Connect With Me  
+## 🛠 **Tools Used**  
+
+- **Figma** – UI/UX Design & Prototyping  
+- **Google Forms** – Surveys & Data Collection  
+- **Excel** – Data Analysis  
+- **Miro** – Brainstorming & User Journey Mapping  
+
+---
+
+## 🎯 **Key Findings & Design Decisions**  
+
+📌 **Users want a simple & quick game rental process** – Our design ensures minimal steps in checkout.  
+📌 **Gamers prefer seeing user reviews** – Integrated review sections in the prototype.  
+📌 **Secure payments & rental duration transparency** – Clearly displayed pricing and rental details.  
+📌 **Mobile-first approach** – Designed for responsiveness across devices.  
+
+---
+
+## 🎥 **Presentation & Documentation**  
+
+📂 **[GameShare Research Presentation](#)** – Slide deck showcasing our UX process.  
+📂 **[UI/UX Analysis Report](#)** – Documentation of insights, decisions, and recommendations.  
+
+---
+
+## 📬 **Contact & Collaboration**  
 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikshitkode/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikshitkode) |  
 |---|---|  
 
----
+📌 **Check out our blog for more details:**  
+🔗 **[GameShare Blog](https://gameshare.my.canva.site/gameshare-website)**  
 
-🚀 **GameShare – Making Gaming More Accessible & Affordable!** 🎮  
+🚀 **GameShare – A UX Design Project Focused on Enhancing Game Rental Experiences!** 🎮
